@@ -1,0 +1,10 @@
+streamlit
+moviepy==1.0.3
+openai-whisper
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+opencv-python
+mediapipe
